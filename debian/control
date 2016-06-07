@@ -1,0 +1,12 @@
+Source: ros-indigo-semantic-segmentation
+Section: misc
+Priority: extra
+Maintainer: hermans <hermans@vision.rwth-aachen.de>
+Build-Depends: debhelper (>= 9.0.0), libncurses5-dev, libpcl-1.7-all-dev, ros-indigo-catkin, ros-indigo-geometry-msgs, ros-indigo-pcl-ros, ros-indigo-roscpp, ros-indigo-semantic-map-publisher, ros-indigo-sensor-msgs, ros-indigo-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-semantic-segmentation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libncurses5-dev, libpcl-1.7-all, ros-indigo-geometry-msgs, ros-indigo-pcl-ros, ros-indigo-roscpp, ros-indigo-semantic-map-publisher, ros-indigo-sensor-msgs, ros-indigo-std-msgs
+Description: The semantic_segmentation package
