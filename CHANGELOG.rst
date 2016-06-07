@@ -2,6 +2,23 @@
 Changelog for package semantic_segmentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.5 (2016-06-07)
+------------------
+
+0.0.4 (2016-06-07)
+------------------
+
+0.0.3 (2016-06-06)
+------------------
+* Merge branch 'master' of https://github.com/strands-project/semantic_segmentation
+* Added explicit used of find curses
+* Contributors: Nick Hawes
+
+0.0.2 (2016-06-06)
+------------------
+* Updated with missing release bits
+* Contributors: Nick Hawes
+
 0.0.1 (2016-06-06)
 ------------------
   Fixing resource path.
